@@ -7,10 +7,10 @@
 - [Descripción](#Descripción)
 - [Funciones](#Funciones)
   - [limpiarCaja()](#limpiarCaja())
-  - [agregarAmigoPantalla(elemento, lista)](#agregarAmigoPantalla(elemento, lista))
+  - [agregarAmigoPantalla(elemento,lista)](#AgregarAmigoPantalla(elemento,lista))
   - [PrimeraLetraMayus(nombre)](#PrimeraLetraMayus(nombre))
   - [agregarAmigo()](#agregarAmigo())
-  - [nombreValido(nombre](#nombreValido(nombre)
+  - [nombreValido(nombre](#nombreValido(nombre))
   - [sortearAmigo()](#sortearAmigo())
   
 
@@ -21,7 +21,7 @@
 
     Para este proyecto se crearon diferentes funciones para el funcionamiento del juego, entre las cuales estan:
 - ***limpiarCaja()***
-- ***agregarAmigoPantalla(elemento, lista)***
+- ***agregarAmigoPantalla(elemento,lista)***
 - ***PrimeraLetraMayus(nombre)***
 - ***agregarAmigo()***
 - ***nombreValido(nombre)***
@@ -34,28 +34,28 @@
 
 
 
-### Limpiar caja:
+### Limpiar caja()
 
 
 ![limpiarcaja](https://github.com/user-attachments/assets/e56be8d5-3205-4d77-aa8f-ae647db42348)
 
-### AgregarAmigoPantalla(elemento, lista):
+### AgregarAmigoPantalla(elemento,lista)
 ![AgregarAmigoPantallla](https://github.com/user-attachments/assets/8ee6b886-0517-4252-b555-491d1b003caa)
 
-### PrimeraLetraMayus(nombre):
+### PrimeraLetraMayus(nombre)
 
 ![primeraLetraMayus](https://github.com/user-attachments/assets/dbe98597-f7c5-4091-8f68-56f2852165fe)
 
-### agregarAmigo():
+### agregarAmigo()
 
 ![AgregarAmigo](https://github.com/user-attachments/assets/f060bcab-6455-416d-bf24-9819bc1ba58f)
 
-### NombreValido(nombre):
+### NombreValido(nombre)
 
 ![NombreValido](https://github.com/user-attachments/assets/4e644bac-486e-479b-bdab-20b631a246ee)
 
 
-### SortearAmigo():
+### SortearAmigo()
 
 ![sortearAmigo](https://github.com/user-attachments/assets/1257704e-a9cd-4c9e-ab68-d99dfbbdd0a7)
 
