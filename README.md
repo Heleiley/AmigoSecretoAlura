@@ -20,12 +20,12 @@
 ### Funciones
 
     Para este proyecto se crearon diferentes funciones para el funcionamiento del juego, entre las cuales estan:
-- ***limpiarCaja()***
-- ***agregarAmigoPantalla(elemento,lista)***
-- ***PrimeraLetraMayus(nombre)***
-- ***agregarAmigo()***
-- ***nombreValido(nombre)***
-- ***sortearAmigo()***
+- ***limpiarCaja().***
+- ***agregarAmigoPantalla(elemento,lista).***
+- ***PrimeraLetraMayus(nombre).***
+- ***agregarAmigo().***
+- ***nombreValido(nombre).***
+- ***sortearAmigo().***
   
 
 
